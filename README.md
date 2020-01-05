@@ -1,2 +1,2 @@
 # PyTutorial
-Simple Python rundown
+A simple Python tutorial.
